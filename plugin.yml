@@ -1,9 +1,6 @@
-name: Arrow Hearts
-
-author: Pogogo007
-
-api: 2.0.0
-
-version: 1.0
-
+name: ArrowHearts
+description: Gives the damager who shots a player how much health they have left!
+version: "1.0_beta"
 main: arrow\Main
+author: OpenBuild Dev Team (Pogogo007 SavionLegendZzz)
+api: 1.13.0
