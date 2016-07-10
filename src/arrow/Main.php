@@ -15,7 +15,7 @@ use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\utils\TextFormat as TF;
 
 
-class Main extends PluginBase Implements Listener{
+class Main extends PluginBase implements Listener{
 
 	public function onEnable(){
 		$this->getServer()->getPluginManager()->registerEvents($this,$this);
